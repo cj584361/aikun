@@ -1,0 +1,70 @@
+{
+  "hash": "db43b38d",
+  "configHash": "d6dfaa84",
+  "lockfileHash": "c95a438c",
+  "browserHash": "d0ab0bf3",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "0e81b2a4",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "396205c6",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "dab2ae4b",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "070a2306",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "a83551a5",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../../node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "f61938bb",
+      "needsInterop": false
+    },
+    "@theme/index": {
+      "src": "../../../../node_modules/vitepress/dist/client/theme-default/index.js",
+      "file": "@theme_index.js",
+      "fileHash": "4ab7ded0",
+      "needsInterop": false
+    },
+    "vue-demi": {
+      "src": "../../../../node_modules/vitepress/lib/vue-demi.mjs",
+      "file": "vue-demi.js",
+      "fileHash": "d5d61f43",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NBF4FRPY": {
+      "file": "chunk-NBF4FRPY.js"
+    },
+    "chunk-ZDT2FX2F": {
+      "file": "chunk-ZDT2FX2F.js"
+    },
+    "chunk-CQXNIQYU": {
+      "file": "chunk-CQXNIQYU.js"
+    },
+    "chunk-PZ5AY32C": {
+      "file": "chunk-PZ5AY32C.js"
+    }
+  }
+}
