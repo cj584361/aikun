@@ -3,6 +3,7 @@ import { pagefindPlugin } from "vitepress-plugin-pagefind";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/aikun/",
   vite: {
     server: {
       port: 5175,
@@ -12,6 +13,7 @@ export default defineConfig({
   },
   title: "一个人的博客",
   description: "A VitePress Site",
+  siteTitle: "🐔你太美",
   lang: "zh-CN",
   themeConfig: {
     logo: "/kunkun.svg",
